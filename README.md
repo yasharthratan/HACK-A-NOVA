@@ -50,7 +50,7 @@ We blur the sensitive areas on toggle using custom CSS and DOM manipulation, whi
  ### SNAPSHOTS FOR GOOGLE-MEET
  The image just before turning on the extension.
  
-![](https://github.com/yasharthratan/HACKULUS_BAAZIGAR/blob/main/screenshots/Gmeet.png)
+![](https://github.com/yasharthratan/HACK-A-NOVA/blob/main/screenshots/Gmeet.png)
 
 The image after bluring video. 
 
