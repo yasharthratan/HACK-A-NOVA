@@ -5,7 +5,7 @@
 # EMB-SAVER :- 
 An efficient anti-peeping, pro privacy, browser extension to prevent people from snooping into your screen during important meetings and preventing you from embarrassment .
 
-## Team-Members:
+## Team-Member:
 
 - [Yasharth Tripathi](https://github.com/yasharthratan)
 
