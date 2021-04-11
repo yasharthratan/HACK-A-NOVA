@@ -5,9 +5,8 @@
 # EMB-SAVER :- 
 An efficient anti-peeping, pro privacy, browser extension to prevent people from snooping into your screen during important meetings and preventing you from embarrassment .
 
-## Team-Member:
 
-- [Yasharth Tripathi](https://github.com/yasharthratan)
+  
 
 ## Track Chosen - OPEN TRACK
 
@@ -81,3 +80,8 @@ Image after bluring video
 Image after bluring everything( video, chats and participants list).
 
 ![](https://github.com/yasharthratan/HACK-A-NOVA/blob/main/screenshots/Blur_zoom.png)
+
+## Team-Member:
+
+- [Yasharth Tripathi](https://github.com/yasharthratan)
+- Special thanks to [Aarushi Shrestha](https://github.com/Aarushi21) for helping out in the video and screenshots.
